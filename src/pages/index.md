@@ -172,7 +172,7 @@ sections:
         image: images/avatar_5.jpg
         image_alt: Speaker 5 photo
         image_position: top
-        image_width: sixty
+        image_width: twenty-five
       - title: Linguina Nettlewater
         subtitle: 'CSS Rocks, Sweden'
         content: >-
